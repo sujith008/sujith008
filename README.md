@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SUJITH</h1>
-<h3 align="center">Highly motivated 3rd year Computer Science student with strong programming, Data Structures, and Algorithms skills, eager to contribute to innovative projects and learn from industry leaders through an internship opportunity.</h3>
+<h3 align="center">Highly motivated 4th year Computer Science student with strong programming, Data Structures, and Algorithms skills, eager to contribute to innovative projects and learn from industry leaders through an internship opportunity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujith008&label=Profile%20views&color=0e75b6&style=flat" alt="sujith008" /> </p>
 
